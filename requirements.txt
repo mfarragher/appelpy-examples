@@ -1,0 +1,12 @@
+# Library:
+appelpy
+
+# Dependencies:
+pandas>=0.24
+jinja2
+scipy
+numpy>=1.16
+statsmodels>=0.9
+patsy
+seaborn>=0.9
+matplotlib>=3
